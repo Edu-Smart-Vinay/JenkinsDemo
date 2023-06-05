@@ -1,2 +1,2 @@
 print("Hello world");
-printf("Build is Successful check your Black Duck Scan");
+print("Build is Successful check your Black Duck Scan");
